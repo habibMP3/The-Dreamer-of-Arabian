@@ -1,0 +1,352 @@
+[
+  {
+    "Ads": [
+      {
+        "select_main_ads": "ADMOB",
+        "select_backup_ads": "ALIEN-V",
+        "main_ads_banner": "ca-app-pub-4231529215115268/3874208276",
+        "main_ads_intertitial": "ca-app-pub-4231529215115268/7799310726",
+        "backup_ads_banner": "08e9a88b00b98dc3",
+        "backup_ads_intertitial": "722791b8be89d915",
+        "open_app_ads": "ca-app-pub-4231529215115268/3021626766",
+        "interval_intertitial": 5,
+        "initialize_sdk": "ca-app-pub-4231529215115268~2581894631",
+        "initialize_sdk_backup_ads": "be9ac154-91a1-437b-a1ca-5b321129b398",
+        "high_paying_keyword_1": "Insurance",
+        "high_paying_keyword_2": "",
+        "high_paying_keyword_3": "",
+        "high_paying_keyword_4": "",
+        "high_paying_keyword_5": "",
+        "status_app": "0",
+        "link_redirect": "https://"
+      }
+    ],
+    "Category": [
+      {
+        "id_album": 1,
+        "author": "Nancy Ajram",
+        "album_name": "Top Album",
+        "image_link": "file:///android_asset/image/nancy.jpg"
+      },
+      {
+        "id_album": 2,
+        "author": "Yara",
+        "album_name": "Top Album Yara",
+        "image_link": "file:///android_asset/image/Yara.jpg"
+      },
+      {
+        "id_album": 3,
+        "author": "Sherine",
+        "album_name": "Top Album Sherine",
+        "image_link": "file:///android_asset/image/Sherine.jpg"
+      },
+      {
+        "id_album": 4,
+        "author": "Assala",
+        "album_name": "Top Album Assala",
+        "image_link": "file:///android_asset/image/Assala.jpg"
+      },
+      {
+        "id_album": 5,
+        "author": "Elissa",
+        "album_name": "Top Album Elissa",
+        "image_link": "file:///android_asset/image/Elissa.jpg"
+      },
+      {
+        "id_album": 6,
+        "author": "Hamza Namira",
+        "album_name": "Top Album Hamza Namira",
+        "image_link": "https://ia600700.us.archive.org/9/items/hamzah-namira/hamzah%20namira.jpg"
+      }
+    ],
+    "Data": [
+      {
+        "id_audio": 1,
+        "id_album": 1,
+        "title": "Ehsas Gedid",
+        "audio_file": "https://ia803200.us.archive.org/29/items/nancy-ajram-ehsas-gedid/Nancy%20Ajram%20-%20Ehsas%20Gedid.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 2,
+        "id_album": 1,
+        "title": "Ana Yalli Bahebak",
+        "audio_file": "https://ia803200.us.archive.org/29/items/nancy-ajram-ehsas-gedid/Nancy%20Ajram%20-%20Ana%20Yalli%20Bahebak.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 3,
+        "id_album": 1,
+        "title": "Enta Masry",
+        "audio_file": "https://ia903200.us.archive.org/29/items/nancy-ajram-ehsas-gedid/Nancy%20Ajram%20-%20Enta%20Masry.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 4,
+        "id_album": 1,
+        "title": "Fi Hagat",
+        "audio_file": "https://ia903200.us.archive.org/29/items/nancy-ajram-ehsas-gedid/Nancy%20Ajram%20-%20Fi%20Hagat.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 5,
+        "id_album": 1,
+        "title": "Fi Ih",
+        "audio_file": "https://ia903200.us.archive.org/29/items/nancy-ajram-ehsas-gedid/Nancy%20Ajram%20-%20Fi%20Ih.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 6,
+        "id_album": 1,
+        "title": "Hilmek",
+        "audio_file": "https://ia803200.us.archive.org/29/items/nancy-ajram-ehsas-gedid/Nancy%20Ajram%20-%20Hilmek%20Nancy.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 7,
+        "id_album": 1,
+        "title": "Kitir",
+        "audio_file": "https://ia903200.us.archive.org/29/items/nancy-ajram-ehsas-gedid/Nancy%20Ajram%20-%20Kitir.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 8,
+        "id_album": 2,
+        "title": "ma baaref",
+        "audio_file": "https://ia903409.us.archive.org/1/items/20240528_20240528_0939/track1.mp3.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 9,
+        "id_album": 2,
+        "title": "Track2",
+        "audio_file": "https://ia803409.us.archive.org/1/items/20240528_20240528_0939/track2.mp3.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 10,
+        "id_album": 2,
+        "title": "Track3",
+        "audio_file": "https://ia903409.us.archive.org/1/items/20240528_20240528_0939/track3.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 11,
+        "id_album": 2,
+        "title": "Track4",
+        "audio_file": "https://ia803409.us.archive.org/1/items/20240528_20240528_0939/track4.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 12,
+        "id_album": 2,
+        "title": "Yara ma yhimmak",
+        "audio_file": "https://ia803409.us.archive.org/1/items/20240528_20240528_0939/track5.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 13,
+        "id_album": 2,
+        "title": "Yara - Talebk Bellah",
+        "audio_file": "https://ia903409.us.archive.org/1/items/20240528_20240528_0939/Yara%20-%20Talebk%20Bellah.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 14,
+        "id_album": 2,
+        "title": "Yara - Meaazabni Al Hawa",
+        "audio_file": "https://ia903409.us.archive.org/1/items/20240528_20240528_0939/Yara%20-%20Meaazabni%20Al%20Hawa.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 15,
+        "id_album": 2,
+        "title": "Mallet",
+        "audio_file": "https://ia903409.us.archive.org/1/items/20240528_20240528_0939/Yara%20%26%20Douzi%20%26%20Dj%20Youcef%20-%20Mallet.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 16,
+        "id_album": 1,
+        "title": "Dreamers",
+        "audio_file": "https://ia802509.us.archive.org/26/items/jung-kook-of-bts-featuring-fahad-al-kubaisi-dreamers-fifa-world-cup/Jung%20Kook%20%28of%20BTS%29%20featuring%20Fahad%20Al%20Kubaisi%20-%20Dreamers%20FIFA%20World%20Cup%202022.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 17,
+        "id_album": 3,
+        "title": "Sherine - Hanetabel",
+        "audio_file": "https://ia600406.us.archive.org/26/items/20240528_20240528_0839/Sherine%20-%20Hanetabel.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 18,
+        "id_album": 3,
+        "title": "Ketir Bnesha",
+        "audio_file": "https://ia800406.us.archive.org/26/items/20240528_20240528_0839/Sherine%20-%20Ketir%20Bnesha.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 19,
+        "id_album": 3,
+        "title": "Sabry Aalil",
+        "audio_file": "https://ia600406.us.archive.org/26/items/20240528_20240528_0839/Sherine%20-%20Sabry%20Aalil.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 20,
+        "id_album": 3,
+        "title": "Sherine - ala Bali",
+        "audio_file": "https://ia800406.us.archive.org/26/items/20240528_20240528_0839/Sherine%20-%20ala%20Bali.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 21,
+        "id_album": 4,
+        "title": "Sabb Farhety",
+        "audio_file": "https://ia802905.us.archive.org/3/items/assala-ahmed-saad-sabb-farhety/Assala%20%26%20Ahmed%20Saad%20-%20Sabb%20Farhety.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 22,
+        "id_album": 4,
+        "title": "Assala - Atahmtak",
+        "audio_file": "https://ia902905.us.archive.org/3/items/assala-ahmed-saad-sabb-farhety/Assala%20-%20Atahmtak.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 23,
+        "id_album": 4,
+        "title": "arabia",
+        "audio_file": "https://ia600401.us.archive.org/11/items/hamza-namira-ft.-isam-b-before-the-dawn/HamzaNamira%20Saheb%20ElSaadah.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 24,
+        "id_album": 4,
+        "title": "Boaadak Ani",
+        "audio_file": "https://ia802905.us.archive.org/3/items/assala-ahmed-saad-sabb-farhety/Assala%20-%20Boaadak%20Ani.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 25,
+        "id_album": 4,
+        "title": "Kan Yhemny",
+        "audio_file": "https://ia802905.us.archive.org/3/items/assala-ahmed-saad-sabb-farhety/Assala%20-%20Kan%20Yhemny.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 26,
+        "id_album": 4,
+        "title": "Khanat El Zekrayat",
+        "audio_file": "https://ia902905.us.archive.org/3/items/assala-ahmed-saad-sabb-farhety/Assala%20-%20Khanat%20El%20Zekrayat.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 27,
+        "id_album": 4,
+        "title": "Fouq",
+        "audio_file": "https://ia802905.us.archive.org/3/items/assala-ahmed-saad-sabb-farhety/Assala%20Ft%20Muslim%20-%20Fouq.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 28,
+        "id_album": 5,
+        "title": "Min Awel Dekika",
+        "audio_file": "https://ia800408.us.archive.org/24/items/elissa_202405/Elissa%20%26%20Saad%20Lamjarred%20-%20Min%20Awel%20Dekika.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 29,
+        "id_album": 5,
+        "title": "Ah Mn Hawak",
+        "audio_file": "https://ia600408.us.archive.org/24/items/elissa_202405/Elissa%20-%20Ah%20Mn%20Hawak.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 30,
+        "id_album": 5,
+        "title": "Ana W Bass",
+        "audio_file": "https://ia600408.us.archive.org/24/items/elissa_202405/Elissa%20-%20Ana%20W%20Bass.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 31,
+        "id_album": 5,
+        "title": "Kelmat Hob",
+        "audio_file": "https://ia800408.us.archive.org/24/items/elissa_202405/Elissa%20-%20Kelmat%20Hob.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 32,
+        "id_album": 5,
+        "title": "Meen Alby Ghanait",
+        "audio_file": "https://ia600408.us.archive.org/24/items/elissa_202405/Elissa%20-%20Meen%20Alby%20Ghanait.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 33,
+        "id_album": 5,
+        "title": "Wara El Shababek",
+        "audio_file": "https://ia600408.us.archive.org/24/items/elissa_202405/Tamer%20Hosny%20FT%20Elissa%20Wara%20El%20Shababek.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 34,
+        "id_album": 6,
+        "title": "Serri Fe Beli",
+        "audio_file": "https://ia800401.us.archive.org/11/items/hamza-namira-ft.-isam-b-before-the-dawn/Hamza%20Namira%20-%20Serri%20Fe%20Beli.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 35,
+        "id_album": 6,
+        "title": "Ya Weld Ammi",
+        "audio_file": "https://ia800401.us.archive.org/11/items/hamza-namira-ft.-isam-b-before-the-dawn/Hamza%20Namira%20-%20Ya%20Weld%20Ammi.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 36,
+        "id_album": 6,
+        "title": "Hatgan",
+        "audio_file": "https://ia800401.us.archive.org/11/items/hamza-namira-ft.-isam-b-before-the-dawn/Hamza%20Namira%20Ft%20Thomas%20Benjamin%20Wild%20-%20Hatgan.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 37,
+        "id_album": 6,
+        "title": "Wain ElGhali Master",
+        "audio_file": "https://ia800401.us.archive.org/11/items/hamza-namira-ft.-isam-b-before-the-dawn/Hamza%20Namira%20Ft.%20Lowkey%20-%20Wain%20ElGhali%20Master.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 38,
+        "id_album": 6,
+        "title": "Kavokim",
+        "audio_file": "https://ia800401.us.archive.org/11/items/hamza-namira-ft.-isam-b-before-the-dawn/Hamza%20Namira%20Kavokim.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 39,
+        "id_album": 6,
+        "title": "Ya Hasra Alik Ya Denia",
+        "audio_file": "https://ia800401.us.archive.org/11/items/hamza-namira-ft.-isam-b-before-the-dawn/Hamza%20Namira%20ft.%20Amine%20Babylone%20-%20Ya%20Hasra%20Alik%20Ya%20Denia.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 40,
+        "id_album": 6,
+        "title": "Before The Dawn",
+        "audio_file": "https://ia600401.us.archive.org/11/items/hamza-namira-ft.-isam-b-before-the-dawn/Hamza%20Namira%20ft.%20Isam%20B%20-%20Before%20The%20Dawn.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      },
+      {
+        "id_audio": 41,
+        "id_album": 6,
+        "title": "Saheb ElSaadah",
+        "audio_file": "https://ia800401.us.archive.org/11/items/hamza-namira-ft.-isam-b-before-the-dawn/HamzaNamira%20Saheb%20ElSaadah.mp3",
+        "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+      }
+    ]
+  }
+]
